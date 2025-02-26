@@ -77,7 +77,7 @@ const ContactSection = () => {
               </h3>
               <div className="space-y-6">
                 <a
-                  href="mailto:contact@fritterstech.com"
+                  href="mailto:contact@frittertech.com"
                   className="flex items-center group p-4 bg-white/5 rounded-lg hover:bg-green-500/10 transition-colors"
                 >
                   <div className="w-12 h-12 bg-green-500/20 rounded-lg flex items-center justify-center text-green-500 group-hover:bg-green-500/30">
@@ -85,7 +85,7 @@ const ContactSection = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-white font-medium">Email Us</h4>
-                    <p className="text-white/60">contact@fritterstech.com</p>
+                    <p className="text-white/60">contact@frittertech.com</p>
                   </div>
                 </a>
 

@@ -32,7 +32,7 @@ const Header = () => {
                 <div className="w-6 h-6 bg-green-500 rounded-md transform rotate-45"></div>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-white to-white/70 bg-clip-text text-transparent">
-                Apple Fritters Tech
+                Apple Fritter Tech
               </span>
             </div>
 

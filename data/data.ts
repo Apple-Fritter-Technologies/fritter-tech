@@ -94,21 +94,21 @@ export const reviews = [
     name: "Emily Chen",
     role: "CTO at GlobalTech",
     content:
-      "Apple Fritters Technologies delivered a game-changing solution that modernized our entire infrastructure. Their expertise in cutting-edge technologies is unmatched.",
+      "Apple Fritter Technologies delivered a game-changing solution that modernized our entire infrastructure. Their expertise in cutting-edge technologies is unmatched.",
     rating: 5,
   },
   {
     name: "David Martinez",
     role: "Founder at InnovateCo",
     content:
-      "The team at Apple Fritters understood our vision perfectly and turned it into reality. Their agile approach and technical excellence made all the difference.",
+      "The team at Apple Fritter understood our vision perfectly and turned it into reality. Their agile approach and technical excellence made all the difference.",
     rating: 5,
   },
   {
     name: "Lisa Wong",
     role: "VP Engineering at ScaleUp",
     content:
-      "Working with Apple Fritters was a breath of fresh air. They brought innovative solutions to complex problems and delivered ahead of schedule.",
+      "Working with Apple Fritter was a breath of fresh air. They brought innovative solutions to complex problems and delivered ahead of schedule.",
     rating: 5,
   },
 ];

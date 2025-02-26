@@ -30,7 +30,7 @@ const AboutSection = () => {
             <div className="w-12 h-[1px] bg-gradient-to-l from-transparent to-green-500"></div>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Why Choose Apple Fritters Tech?
+            Why Choose Apple Fritter Tech?
           </h2>
           <p className="text-white/70 max-w-2xl mx-auto text-lg">
             We combine technical expertise with innovative thinking to deliver

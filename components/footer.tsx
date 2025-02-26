@@ -36,7 +36,7 @@ const Footer = () => {
                 <div className="w-6 h-6 bg-green-500 rounded-md transform rotate-45"></div>
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-white to-white/70 bg-clip-text text-transparent">
-                Apple Fritters Tech
+                Apple Fritter Tech
               </span>
             </div>
             <p className="text-white/60">
@@ -115,11 +115,11 @@ const Footer = () => {
             <h3 className="text-white font-semibold mb-6">Contact Us</h3>
             <div className="space-y-4">
               <a
-                href="mailto:contact@fritterstech.com"
+                href="mailto:contact@frittertech.com"
                 className="text-white/60 hover:text-green-500 flex items-center group"
               >
                 <Mail className="w-5 h-5 mr-3 text-green-500" />
-                contact@fritterstech.com
+                contact@frittertech.com
               </a>
               <a
                 href="tel:+1234567890"
@@ -156,7 +156,7 @@ const Footer = () => {
         <div className="border-t border-white/10 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-white/60 text-sm">
-              © 2025 Apple Fritters Tech. All rights reserved.
+              © 2025 Apple Fritter Tech. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a
